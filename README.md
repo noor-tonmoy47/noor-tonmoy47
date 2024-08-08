@@ -28,7 +28,7 @@ I am currently studying Software Engineering at Shahjalal University of Science 
 
 ## 📫 Connect with me
 
-<a href="www.linkedin.com/in/md-sams-noor-tonmoy-7365642b3" target="_blank">
+<a href="https://www.linkedin.com/in/md-sams-noor-tonmoy-7365642b3" target="_blank">
     <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="www.linkedin.com/in/md-sams-noor-tonmoy-7365642b3"  />
   </a>
 <a href="mailto:noortonmoy47@gmail.com" target="_blank">
