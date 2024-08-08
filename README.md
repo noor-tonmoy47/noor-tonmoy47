@@ -2,7 +2,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=noor-tonmoy47&label=Profile%20views&color=0e75b6&style=flat" alt="noor-tonmoy47" /> </p>
 
-I am currently studying Software Engineering at Shahjalal University of Science & Technology. I'm enjoy software development & fascinated with the web and how it functions. I'm eager to contribute to impactful projects, grow my technical expertise, and work collaboratively in dynamic environments.
+I am currently studying Software Engineering at Shahjalal University of Science & Technology. I enjoy software development & fascinated with the web and how it functions. I'm eager to contribute to impactful projects, grow my technical expertise, and work collaboratively in dynamic environments.
 
 <h3> Online Judge Handles </h3>
 
